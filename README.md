@@ -15,7 +15,10 @@ Improper 2D: 1000
   
 Number of Nodes for Push Sum Algorithm-  
 
-Full topology: 4000 
+Full topology: 5000 
 Line topology: 2000  
-2D topology: 5000  
-Improper 2D: 10000  
+2D topology: 200  
+Improper 2D: 500
+
+
+
